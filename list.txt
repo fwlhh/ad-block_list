@@ -1,4 +1,4 @@
-! --- Ads & DoubleClick ---
+! --- Реклама и DoubleClick (Google) ---
 ||googleads.g.doubleclick.net^
 ||ad.doubleclick.net^
 ||static.doubleclick.net^
@@ -8,58 +8,58 @@
 ||cm.g.doubleclick.net^
 ||pubads.g.doubleclick.net^
 ||securepubads.g.doubleclick.net^
-||advertising.yandex.ru^
 ||analyticsengine.s3.amazonaws.com^
+||advertising.yandex.ru^
 
-! --- Analytics & Tracking ---
-||metrika.yandex.ru^
+! --- Аналитика и Метрики ---
 ||tagmanager.google.com^
+||metrika.yandex.ru^
 ||c.bing.com^
-||bnc.lt^
 ||pixel.advertising.com^
 ||device-metrics-us.amazon.com^
 ||unagi-na.amazon.com^
 
-! --- Error Reporting ---
+! --- Ошибки и Логирование ---
 ||cdn.ravenjs.com^
 ||api.raygun.io^
-||usage.trackjs.com^
 ||api.honeybadger.io^
 ||cdn.raygun.io^
+||usage.trackjs.com^
+||js.honeybadger.io^
 
-! --- Social, Video & Widgets ---
+! --- Соцсети и Видео-трекеры ---
 ||widgets.pinterest.com^
 ||redditmedia.com^
 ||static.addtoany.com^
 ||log.byteoversea.com^
-||st-widget.s3.amazonaws.com^
 ||f.vimeocdn.com^
 ||fresnel.vimeocdn.com^
-||api.bcovlive.io^
 ||cdn.jwplayer.com^
+||api.bcovlive.io^
+||bnc.lt^
 
-! --- OS Telemetry & OEM ---
+! --- Телеметрия и OEM (Apple/Xiaomi) ---
 ||xp.apple.com^
+||api-adservices.apple.com^
 ||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
 ||books-analytics-events.apple.com^
-||api-adservices.apple.com^
 ||clientservices.googleapis.com^
 ||tracking.rus.miui.com^
 ||iot-eu-logser.realme.com^
 
-! --- Consent & A/B Testing ---
+! --- Согласие (Cookies) и A/B Тесты ---
 ||cdn.privacy-mgmt.com^
 ||wrapper-api.sp-prod.net^
 ||consent.trustarc.com^
 ||consent.cookiebot.com^
 ||cookies-data.onetrust.io^
 ||cdn.cookielaw.org^
-||consentcdn.cookiebot.com^
 ||api.usercentrics.eu^
 ||app.usercentrics.eu^
 ||streaming.split.io^
 ||cdn.split.io^
 ||sdk.split.io^
-||mobile.launchdarkly.com^
 ||vwo.com^
+||mobile.launchdarkly.com^
+||stream.launchdarkly.com^
